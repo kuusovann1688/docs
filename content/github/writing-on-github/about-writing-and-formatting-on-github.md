@@ -2,7 +2,7 @@
 title: About writing and formatting on GitHub
 intro: GitHub combines a syntax for formatting text called GitHub Flavored Markdown with a few unique writing features.
 redirect_from:
-  - /articles/about-writing-and-formatting-on-github
+  - /articles/about-writing-and-uformatting-on-github
 versions:
   free-pro-team: '*'
   enterprise-server: '*'
